@@ -61,8 +61,3 @@ PowerBI
 ## Screenshot
 
 ![Flight Delay Dashboard](Hello_Report_page.jpg)
-
-## Author
-
-Parth Dabhi  
-Computer Science (AI/ML) Student
